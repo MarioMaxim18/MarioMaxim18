@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I’m Mario!
 * I am a 2nd year Mathematics and Computer Science student with a solid foundation in programming, problem-solving, and software development. 
 * I am passionate about exploring innovative technologies, enhancing my skills, and contributing to impactful projects. 
 
